@@ -38,13 +38,13 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 88,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -236,7 +236,7 @@
 	},
 	{
 		"abr": "urn",
-		"price": 70,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Urn"
 	},
@@ -260,163 +260,163 @@
 	},
 	{
 		"abr": "bed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
 	{
 		"abr": "doublebed",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoubleBed"
 	},
 	{
 		"abr": "royalbed",
-		"price": 1467,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
 	{
 		"abr": "hospitalbed",
-		"price": 667,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HospitalBed"
 	},
 	{
 		"abr": "bedroll",
-		"price": 137,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bedroll"
 	},
 	{
 		"abr": "doublebedroll",
-		"price": 290,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
 	},
 	{
 		"abr": "animalsleepingbox",
-		"price": 84,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox"
 	},
 	{
 		"abr": "animalbed",
-		"price": 136,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
 	{
 		"abr": "stool",
-		"price": 86,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Stool"
 	},
 	{
 		"abr": "diningchair",
-		"price": 198,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DiningChair"
 	},
 	{
 		"abr": "armchair",
-		"price": 450,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
 	{
 		"abr": "couch",
-		"price": 783,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Couch"
 	},
 	{
 		"abr": "endtable",
-		"price": 106,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "EndTable"
 	},
 	{
 		"abr": "table(1x2)",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table1x2c"
 	},
 	{
 		"abr": "table(2x2)",
-		"price": 176,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table2x2c"
 	},
 	{
 		"abr": "table(2x4)",
-		"price": 333,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table2x4c"
 	},
 	{
 		"abr": "table(3x3)",
-		"price": 350,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Table3x3c"
 	},
 	{
 		"abr": "plantpot",
-		"price": 68,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
 	{
 		"abr": "standinglamp",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StandingLamp"
 	},
 	{
 		"abr": "sunlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
 	{
 		"abr": "walllamp",
-		"price": 49,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "WallLamp"
 	},
 	{
 		"abr": "floodlight",
-		"price": 162,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "FloodLight"
 	},
 	{
 		"abr": "shelf",
-		"price": 70,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Shelf"
 	},
 	{
 		"abr": "smallshelf",
-		"price": 35,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ShelfSmall"
 	},
 	{
 		"abr": "bookcase",
-		"price": 70,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bookcase"
 	},
 	{
 		"abr": "smallbookcase",
-		"price": 35,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BookcaseSmall"
 	},
 	{
 		"abr": "dresser",
-		"price": 179,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Dresser"
 	},
@@ -434,25 +434,25 @@
 	},
 	{
 		"abr": "game-of-urboard",
-		"price": 153,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard"
 	},
 	{
 		"abr": "chesstable",
-		"price": 281,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ChessTable"
 	},
 	{
 		"abr": "pokertable",
-		"price": 400,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PokerTable"
 	},
 	{
 		"abr": "billiardstable",
-		"price": 600,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
 	},
@@ -668,7 +668,7 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
@@ -854,79 +854,79 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -1028,13 +1028,13 @@
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
 	{
 		"abr": "smokeleafleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
 	},
@@ -1070,7 +1070,7 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": 2000,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
@@ -1790,13 +1790,13 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "YorkshireTerrier"
 	},
 	{
 		"abr": "guineapig",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GuineaPig"
 	},
@@ -1814,7 +1814,7 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Monkey"
 	},
@@ -1850,7 +1850,7 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Boomalope"
 	},
@@ -1868,7 +1868,7 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Dromedary"
 	},
@@ -1934,7 +1934,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Megascarab"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Alphabeaver"
 	},
@@ -2018,7 +2018,7 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Alpaca"
 	},
@@ -2042,13 +2042,13 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Rat"
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Boomrat"
 	},
@@ -2060,7 +2060,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Iguana"
 	},
@@ -2270,31 +2270,31 @@
 	},
 	{
 		"abr": "drape",
-		"price": 608,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Drape"
 	},
 	{
 		"abr": "brazier",
-		"price": 173,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Brazier"
 	},
 	{
 		"abr": "darklightbrazier",
-		"price": 173,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DarklightBrazier"
 	},
 	{
 		"abr": "meditationthrone",
-		"price": 475,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Throne"
 	},
 	{
 		"abr": "grandmeditationthrone",
-		"price": 2492,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GrandThrone"
 	},
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"abr": "stylingstation",
-		"price": 375,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "StylingStation"
 	},
@@ -2696,37 +2696,37 @@
 	},
 	{
 		"abr": "pew",
-		"price": 350,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Pew"
 	},
 	{
 		"abr": "kneelsheet",
-		"price": 281,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KneelSheet"
 	},
 	{
 		"abr": "kneelpillow",
-		"price": 98,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "KneelPillow"
 	},
 	{
 		"abr": "bonsaipot",
-		"price": 82,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PlantPot_Bonsai"
 	},
 	{
 		"abr": "slabbed",
-		"price": 102,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SlabBed"
 	},
 	{
 		"abr": "slabdoublebed",
-		"price": 288,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SlabDoubleBed"
 	},
@@ -2816,61 +2816,61 @@
 	},
 	{
 		"abr": "morbidslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MorbidSlab_Medium"
 	},
 	{
 		"abr": "morbidslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MorbidSlab_Broad"
 	},
 	{
 		"abr": "totemicslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "TotemicSlab_Medium"
 	},
 	{
 		"abr": "totemicslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "TotemicSlab_Broad"
 	},
 	{
 		"abr": "spikecorefloor-star(medium)",
-		"price": 323,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SpikecoreFloorStar_Medium"
 	},
 	{
 		"abr": "spikecorefloor-star(broad)",
-		"price": 483,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SpikecoreFloorStar_Broad"
 	},
 	{
 		"abr": "rusticrug(medium)",
-		"price": 256,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RusticRug_Medium"
 	},
 	{
 		"abr": "rusticrug(broad)",
-		"price": 383,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RusticRug_Broad"
 	},
 	{
 		"abr": "animalistslab(medium)",
-		"price": 342,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalistSlab_Medium"
 	},
 	{
 		"abr": "animalistslab(broad)",
-		"price": 508,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AnimalistSlab_Broad"
 	},
@@ -2918,7 +2918,7 @@
 	},
 	{
 		"abr": "cube",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertCube"
 	},
@@ -3020,31 +3020,31 @@
 	},
 	{
 		"abr": "toybox",
-		"price": 274,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ToyBox"
 	},
 	{
 		"abr": "schooldesk",
-		"price": 104,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SchoolDesk"
 	},
 	{
 		"abr": "babydecoration",
-		"price": 205,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BabyDecoration"
 	},
 	{
 		"abr": "crib",
-		"price": 86,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Crib"
 	},
 	{
 		"abr": "blackboard",
-		"price": 56,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Blackboard"
 	},
@@ -3098,7 +3098,7 @@
 	},
 	{
 		"abr": "toxipotatoes",
-		"price": 1,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "RawToxipotato"
 	},
@@ -3326,7 +3326,7 @@
 	},
 	{
 		"abr": "wasterat",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "WasteRat"
 	},
@@ -3386,25 +3386,25 @@
 	},
 	{
 		"abr": "dirtcubesculpture",
-		"price": 30,
+		"price": -10,
 		"category": "Art",
 		"defname": "DirtCubeSculpture"
 	},
 	{
 		"abr": "stonecubesculpture",
-		"price": 30,
+		"price": -10,
 		"category": "Art",
 		"defname": "StoneCubeSculpture"
 	},
 	{
 		"abr": "sandcubesculpture",
-		"price": 30,
+		"price": -10,
 		"category": "Art",
 		"defname": "SandCubeSculpture"
 	},
 	{
 		"abr": "scrapcubesculpture",
-		"price": 30,
+		"price": -10,
 		"category": "Art",
 		"defname": "ScrapCubeSculpture"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "goldencube",
-		"price": 2000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "GoldenCube"
 	},
@@ -3842,7 +3842,7 @@
 	},
 	{
 		"abr": "alphabeavermeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
@@ -3908,13 +3908,13 @@
 	},
 	{
 		"abr": "ratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "boomratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_Boomrat"
 	},
@@ -3962,7 +3962,7 @@
 	},
 	{
 		"abr": "wasteratmeat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_WasteRat"
 	},
@@ -4226,73 +4226,73 @@
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": 1250,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
@@ -4760,13 +4760,13 @@
 	},
 	{
 		"abr": "meditationpad(jedi)",
-		"price": 147,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PJ_ForceMedPadJ"
 	},
 	{
 		"abr": "meditationpad(sith)",
-		"price": 147,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "PJ_ForceMedPadS"
 	},
