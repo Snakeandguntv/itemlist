@@ -166,11 +166,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -207,7 +202,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 6900,
 		"karmatype": "Neutral"
 	},
 	{
@@ -287,7 +282,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -346,5 +341,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 68
 }
