@@ -38,7 +38,7 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": -10,
+		"price": 88,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
@@ -5027,7 +5027,1309 @@
 		"price": 167,
 		"category": "Apparel",
 		"defname": "PJ_GenFlight_Y"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 3250,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 3917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler"
+	},
+	{
+		"abr": "ab-75bo-rifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_AB75BoRifle"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "androidfuel",
+		"price": 40,
+		"category": "Foods",
+		"defname": "BS_AndroidFuel"
+	},
+	{
+		"abr": "aperitif",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "VFEE_Aperitif"
+	},
+	{
+		"abr": "bactaspray",
+		"price": 1250,
+		"category": "Medicine",
+		"defname": "OuterRim_BactaSpray"
+	},
+	{
+		"abr": "barm-st12scattergun",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_BARMST12Scattergun"
+	},
+	{
+		"abr": "beskar",
+		"price": 19,
+		"category": "Raw resources",
+		"defname": "OuterRim_Beskar"
+	},
+	{
+		"abr": "bioniclocomotivespine",
+		"price": 4025,
+		"category": "Bionic",
+		"defname": "BS_BionicLocomotiveSpine"
+	},
+	{
+		"abr": "bionicstriderleg",
+		"price": 1733,
+		"category": "Bionic",
+		"defname": "BS_BionicStriderLeg"
+	},
+	{
+		"abr": "blastercarbine",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_BlasterCarbine"
+	},
+	{
+		"abr": "bonecuirass",
+		"price": 1033,
+		"category": "Armor",
+		"defname": "OuterRim_BoneCuirass"
+	},
+	{
+		"abr": "bonehelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "OuterRim_BoneHelmet"
+	},
+	{
+		"abr": "bonepauldrons",
+		"price": 425,
+		"category": "Armor",
+		"defname": "OuterRim_BonePauldrons"
+	},
+	{
+		"abr": "candelabra",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "VFEE_Candelabra"
+	},
+	{
+		"abr": "casualclothing",
+		"price": 248,
+		"category": "Apparel",
+		"defname": "OuterRim_CasualClothing"
+	},
+	{
+		"abr": "centauroid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_Centaur"
+	},
+	{
+		"abr": "centauroidwithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArm"
+	},
+	{
+		"abr": "centauroidwithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArmWinged"
+	},
+	{
+		"abr": "centauroidwithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurWinged"
+	},
+	{
+		"abr": "chargethumper",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFEE_Gun_ChargeThumper"
+	},
+	{
+		"abr": "chitincuirass",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_ChitinCuirass"
+	},
+	{
+		"abr": "chitinhelmet",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_ChitinHelmet"
+	},
+	{
+		"abr": "chitinpauldrons",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_ChitinPauldrons"
+	},
+	{
+		"abr": "cloak",
+		"price": 248,
+		"category": "Apparel",
+		"defname": "OuterRim_Cloak"
+	},
+	{
+		"abr": "compositecuirass",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_CompositeCuirass"
+	},
+	{
+		"abr": "compositehelmet",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_CompositeHelmet"
+	},
+	{
+		"abr": "compositepauldrons",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_CompositePauldrons"
+	},
+	{
+		"abr": "cryobangrenade",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_CryoBanGrenade"
+	},
+	{
+		"abr": "cryobangrenadebelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_CryoBanGrenadeBelt"
+	},
+	{
+		"abr": "cyclerrifle",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_CyclerRifle"
+	},
+	{
+		"abr": "d-72woppressorflameprojector",
+		"price": 2783,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_D72wOppressor"
+	},
+	{
+		"abr": "de-10blaster",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_DE10Blaster"
+	},
+	{
+		"abr": "desertgarb",
+		"price": 248,
+		"category": "Apparel",
+		"defname": "OuterRim_DesertGarb"
+	},
+	{
+		"abr": "deserthood",
+		"price": 218,
+		"category": "Apparel",
+		"defname": "OuterRim_DesertHood"
+	},
+	{
+		"abr": "deserterarmor",
+		"price": 6883,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorDeserter"
+	},
+	{
+		"abr": "deserterhelmet",
+		"price": 1267,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_DeserterHelmet"
+	},
+	{
+		"abr": "dg-29heavyblaster",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_DG29Blaster"
+	},
+	{
+		"abr": "dlt-19heavyblasterrifle",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_DLT19HeavyBlasterRifle"
+	},
+	{
+		"abr": "dlt-19xtargetingblaster",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_DLT19XTargetingBlaster"
+	},
+	{
+		"abr": "dlt-20ablasterrifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_DLT20ABlaster"
+	},
+	{
+		"abr": "duracrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "OuterRim_Duracrete"
+	},
+	{
+		"abr": "durafiber",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "OuterRim_Durafiber"
+	},
+	{
+		"abr": "durafiberbodysuit",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_Bodysuit"
+	},
+	{
+		"abr": "durasteel",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "OuterRim_Durasteel"
+	},
+	{
+		"abr": "e-10blasterrifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_E10BlasterRifle"
+	},
+	{
+		"abr": "e-11blasterrifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_E11BlasterRifle"
+	},
+	{
+		"abr": "e-22blasterrifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_E22BlasterRifle"
+	},
+	{
+		"abr": "ec-17scoutblaster",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_EC17Blaster"
+	},
+	{
+		"abr": "fletcher",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "VEE_Gun_Fletcher"
+	},
+	{
+		"abr": "fourarmedhuman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanFouramed"
+	},
+	{
+		"abr": "four-armedhumanlikewithatail",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailed"
+	},
+	{
+		"abr": "four-armedhumanlikewithatailandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailedWinged"
+	},
+	{
+		"abr": "four-armedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmWinged"
+	},
+	{
+		"abr": "fraggrenade",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_FragGrenade"
+	},
+	{
+		"abr": "fraggrenadebelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_FragGrenadeBelt"
+	},
+	{
+		"abr": "fusionreactor(portable)",
+		"price": 16667,
+		"category": "Special",
+		"defname": "OuterRim_FusionReactorPortable"
+	},
+	{
+		"abr": "gaderffiistick",
+		"price": 209,
+		"category": "Melee weapons",
+		"defname": "OuterRim_GaderffiiStick"
+	},
+	{
+		"abr": "gandbreathmask",
+		"price": 83,
+		"category": "Misc",
+		"defname": "guy762_GandMask"
+	},
+	{
+		"abr": "grandchair",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "VFEE_GrandChair"
+	},
+	{
+		"abr": "grandimperialsculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureGrand"
+	},
+	{
+		"abr": "grandroyalrug",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "VFEE_GrandRoyalRug"
+	},
+	{
+		"abr": "grandtable",
+		"price": 1133,
+		"category": "Furniture",
+		"defname": "VFEE_GrandTable"
+	},
+	{
+		"abr": "heavyionrifle",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_HeavyIonRifle"
+	},
+	{
+		"abr": "hermittunic",
+		"price": 248,
+		"category": "Apparel",
+		"defname": "OuterRim_HermitTunic"
+	},
+	{
+		"abr": "hood",
+		"price": 218,
+		"category": "Apparel",
+		"defname": "OuterRim_Hood"
+	},
+	{
+		"abr": "hypertechcomponent",
+		"price": 367,
+		"category": "Manufactured",
+		"defname": "OuterRim_ComponentHypertech"
+	},
+	{
+		"abr": "hypertechfabricator",
+		"price": 1742,
+		"category": "Production",
+		"defname": "OuterRim_HypertechFabricator"
+	},
+	{
+		"abr": "hypertechmine(cryoban)",
+		"price": 1242,
+		"category": "Security",
+		"defname": "OuterRim_Mine_CryoBan"
+	},
+	{
+		"abr": "hypertechmine(frag)",
+		"price": 933,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Frag"
+	},
+	{
+		"abr": "hypertechmine(ion)",
+		"price": 1242,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Ion"
+	},
+	{
+		"abr": "hypertechmine(plasma)",
+		"price": 908,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Plasma"
+	},
+	{
+		"abr": "hypertechmine(sonic)",
+		"price": 1242,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Sonic"
+	},
+	{
+		"abr": "hypertechmine(thermal)",
+		"price": 900,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Thermal"
+	},
+	{
+		"abr": "hypertechmine(tox)",
+		"price": 875,
+		"category": "Security",
+		"defname": "OuterRim_Mine_Tox"
+	},
+	{
+		"abr": "hypertechresearchbench",
+		"price": 3342,
+		"category": "Production",
+		"defname": "OuterRim_HypertechResearchBench"
+	},
+	{
+		"abr": "imperialarmycap",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialArmyCap"
+	},
+	{
+		"abr": "imperialarmycuirass",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_ImperialArmyCuirass"
+	},
+	{
+		"abr": "imperialarmyhelmet",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_ImperialArmyHelmet"
+	},
+	{
+		"abr": "imperialarmypauldrons",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_ImperialArmyPauldrons"
+	},
+	{
+		"abr": "imperialarmyuniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialArmyUniform"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialBanner"
+	},
+	{
+		"abr": "imperialcadethelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "OuterRim_ImperialCadetHelmet"
+	},
+	{
+		"abr": "imperialcadethelmet(open)",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "OuterRim_ImperialCadetHelmetAlt"
+	},
+	{
+		"abr": "imperialcadetuniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialCadetUniform"
+	},
+	{
+		"abr": "imperialjetpack",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialJetpack"
+	},
+	{
+		"abr": "imperialofficercap",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerCap"
+	},
+	{
+		"abr": "imperialofficercap(black)",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerCap_Black"
+	},
+	{
+		"abr": "imperialofficercap(white)",
+		"price": 68,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerCap_White"
+	},
+	{
+		"abr": "imperialofficeruniform",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerUniform"
+	},
+	{
+		"abr": "imperialofficeruniform(black)",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerUniform_Black"
+	},
+	{
+		"abr": "imperialofficeruniform(white)",
+		"price": 198,
+		"category": "Apparel",
+		"defname": "OuterRim_ImperialOfficerUniform_White"
+	},
+	{
+		"abr": "imperialslab",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialSlab"
+	},
+	{
+		"abr": "industrialjetpack",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_IndustrialJetpack"
+	},
+	{
+		"abr": "ionblaster",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_IonBlaster"
+	},
+	{
+		"abr": "iongrenade",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_IonGrenade"
+	},
+	{
+		"abr": "iongrenadebelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_IonGrenadeBelt"
+	},
+	{
+		"abr": "ionrifle",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_IonRifle"
+	},
+	{
+		"abr": "isbagentcuirass",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_ISBAgentCuirass"
+	},
+	{
+		"abr": "isbagenthelmet",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_ISBAgentHelmet"
+	},
+	{
+		"abr": "janissarycuirass",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_JanissaryCuirass"
+	},
+	{
+		"abr": "janissaryhelmet",
+		"price": 1075,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_JanissaryHelmet"
+	},
+	{
+		"abr": "jt-12jetpack",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_JT12Jetpack"
+	},
+	{
+		"abr": "k-16bryarblaster",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_K16BryarBlaster"
+	},
+	{
+		"abr": "kaleeshskullmask",
+		"price": 167,
+		"category": "Misc",
+		"defname": "guy762_KaleeshMask"
+	},
+	{
+		"abr": "keldorbreathmask",
+		"price": 83,
+		"category": "Misc",
+		"defname": "guy762_KelDorMask"
+	},
+	{
+		"abr": "koltogelpack",
+		"price": 142,
+		"category": "Medicine",
+		"defname": "OuterRim_KoltoGelPack"
+	},
+	{
+		"abr": "largeimperialsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureLarge"
+	},
+	{
+		"abr": "largeroyalrug",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_LargeRoyalRug"
+	},
+	{
+		"abr": "makeshiftjetpack",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_MakeshiftJetpack"
+	},
+	{
+		"abr": "mech",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "BS_UrbMech"
+	},
+	{
+		"abr": "mechawithatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailed"
+	},
+	{
+		"abr": "mechawithatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailedWinged"
+	},
+	{
+		"abr": "mechawithfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArm"
+	},
+	{
+		"abr": "mechawithfourarmsandatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailed"
+	},
+	{
+		"abr": "mechawithfourarmsandatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailedWinged"
+	},
+	{
+		"abr": "mechawithfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmWinged"
+	},
+	{
+		"abr": "mechawithfourlegs",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaur"
+	},
+	{
+		"abr": "mechawithfourlegsandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArm"
+	},
+	{
+		"abr": "mechawithfourlegsandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArmWinged"
+	},
+	{
+		"abr": "mechawithfourlegsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurWinged"
+	},
+	{
+		"abr": "mechawithmech",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaMecha"
+	},
+	{
+		"abr": "mechawithserpent-liketail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnek"
+	},
+	{
+		"abr": "mechawithserpent-liketailandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArm"
+	},
+	{
+		"abr": "mechawithserpent-liketailandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArmWinged"
+	},
+	{
+		"abr": "mechawithserpent-liketailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekWinged"
+	},
+	{
+		"abr": "mechawithspider-likeabdomen",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooder"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArm"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArmWinged"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderWinged"
+	},
+	{
+		"abr": "mechawithwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaWinged"
+	},
+	{
+		"abr": "organ",
+		"price": 2167,
+		"category": "Recreation",
+		"defname": "VFEE_PipeOrgan"
+	},
+	{
+		"abr": "paddedcuirass",
+		"price": 1033,
+		"category": "Armor",
+		"defname": "OuterRim_PaddedCuirass"
+	},
+	{
+		"abr": "paddedhelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "OuterRim_PaddedHelmet"
+	},
+	{
+		"abr": "paddedpauldrons",
+		"price": 425,
+		"category": "Armor",
+		"defname": "OuterRim_PaddedPauldrons"
+	},
+	{
+		"abr": "permacrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "OuterRim_Permacrete"
+	},
+	{
+		"abr": "personatoxblade",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
+	},
+	{
+		"abr": "plasmagrenade",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_PlasmaGrenade"
+	},
+	{
+		"abr": "plasmagrenadebelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_PlasmaGrenadeBelt"
+	},
+	{
+		"abr": "plastcrete",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "OuterRim_Plastcrete"
+	},
+	{
+		"abr": "poncho",
+		"price": 248,
+		"category": "Apparel",
+		"defname": "OuterRim_Poncho"
+	},
+	{
+		"abr": "psytrainer(forceblindsight)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_guy762_GeneAbility_forcesight"
+	},
+	{
+		"abr": "purebeskar",
+		"price": 28,
+		"category": "Raw resources",
+		"defname": "OuterRim_PureBeskar"
+	},
+	{
+		"abr": "royalmirror",
+		"price": 230,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalMirror"
+	},
+	{
+		"abr": "royalstool",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalStool"
+	},
+	{
+		"abr": "scouttroopercuirass",
+		"price": 1033,
+		"category": "Armor",
+		"defname": "OuterRim_ScoutTrooperCuirass"
+	},
+	{
+		"abr": "scouttrooperhelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "OuterRim_ScoutTrooperHelmet"
+	},
+	{
+		"abr": "scouttrooperpauldrons",
+		"price": 425,
+		"category": "Armor",
+		"defname": "OuterRim_ScoutTrooperPauldrons"
+	},
+	{
+		"abr": "scrapperhelmet",
+		"price": 625,
+		"category": "Headgear",
+		"defname": "OuterRim_ScrapperHelmet"
+	},
+	{
+		"abr": "scrapperworksuit",
+		"price": 658,
+		"category": "Apparel",
+		"defname": "OuterRim_ScrapperWorksuit"
+	},
+	{
+		"abr": "se-14rblaster",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_SE14RBlaster"
+	},
+	{
+		"abr": "serpent-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArm"
+	},
+	{
+		"abr": "serpent-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArmWinged"
+	},
+	{
+		"abr": "serpent-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekWinged"
+	},
+	{
+		"abr": "six-armedsnake-person",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "BS_Marlith"
+	},
+	{
+		"abr": "smallimperialsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureSmall"
+	},
+	{
+		"abr": "snake-person",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_Naga"
+	},
+	{
+		"abr": "sonicgrenade",
+		"price": 342,
+		"category": "Grenades",
+		"defname": "OuterRim_SonicGrenade"
+	},
+	{
+		"abr": "sonicgrenadebelt",
+		"price": 342,
+		"category": "Utility",
+		"defname": "OuterRim_SonicGrenadeBelt"
+	},
+	{
+		"abr": "spider-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArm"
+	},
+	{
+		"abr": "spider-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArmWinged"
+	},
+	{
+		"abr": "spider-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderWinged"
+	},
+	{
+		"abr": "spider-person",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_SpiderPersonRace"
+	},
+	{
+		"abr": "stellicmeditationthrone",
+		"price": 5542,
+		"category": "Furniture",
+		"defname": "VFEE_StellicThrone"
+	},
+	{
+		"abr": "stellicrobe",
+		"price": 583,
+		"category": "Noble apparel",
+		"defname": "VFE_Apparel_StellicRobe"
+	},
+	{
+		"abr": "stimbelt(adrenalamplifier)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_AdrenalAmplifier"
+	},
+	{
+		"abr": "stimbelt(bloodcoagulator)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_BloodCoagulator"
+	},
+	{
+		"abr": "stimbelt(cardioregulator)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_CardioRegulator"
+	},
+	{
+		"abr": "stormtroopercuirass",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperCuirass"
+	},
+	{
+		"abr": "stormtroopercuirass(pride)",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperCuirass_Pride"
+	},
+	{
+		"abr": "stormtroopercuirass(specialist)",
+		"price": 1492,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperCuirass_Specialist"
+	},
+	{
+		"abr": "stormtrooperhelmet",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_StormtrooperHelmet"
+	},
+	{
+		"abr": "stormtrooperhelmet(pride)",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_StormtrooperHelmet_Pride"
+	},
+	{
+		"abr": "stormtrooperhelmet(specialist)",
+		"price": 1458,
+		"category": "Headgear",
+		"defname": "OuterRim_StormtrooperHelmet_Specialist"
+	},
+	{
+		"abr": "stormtrooperpauldrons",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons"
+	},
+	{
+		"abr": "stormtrooperpauldrons(black)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Enlisted"
+	},
+	{
+		"abr": "stormtrooperpauldrons(orange)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Officer"
+	},
+	{
+		"abr": "stormtrooperpauldrons(pride)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Pride"
+	},
+	{
+		"abr": "stormtrooperpauldrons(red)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Commander"
+	},
+	{
+		"abr": "stormtrooperpauldrons(white)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Sergeant"
+	},
+	{
+		"abr": "stormtrooperpauldrons(yellow)",
+		"price": 450,
+		"category": "Armor",
+		"defname": "OuterRim_StormtrooperPauldrons_Artillery"
+	},
+	{
+		"abr": "stungrenade",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_StunGrenade"
+	},
+	{
+		"abr": "stungrenadebelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_StunGrenadeBelt"
+	},
+	{
+		"abr": "t-21repeatingblaster",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_T21RepeatingBlaster"
+	},
+	{
+		"abr": "tailedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_TailedWinged"
+	},
+	{
+		"abr": "tailedhumanoid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanoidWithTail"
+	},
+	{
+		"abr": "techbelt(inertialinhibitor)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_InertialInhibitor"
+	},
+	{
+		"abr": "techbelt(nerveamplifier)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_NerveAmplifier"
+	},
+	{
+		"abr": "techbelt(sounddampener)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_SoundDampener"
+	},
+	{
+		"abr": "techbelt(stealthfieldgen.)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_StealthFieldGen"
+	},
+	{
+		"abr": "techbelt(temperatureregulator)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_TemperatureRegulator"
+	},
+	{
+		"abr": "techbelt(toxshield)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Belt_ToxShield"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "thermaldetonator",
+		"price": 375,
+		"category": "Grenades",
+		"defname": "OuterRim_ThermalDetonator"
+	},
+	{
+		"abr": "thermaldetonatorbelt",
+		"price": 375,
+		"category": "Utility",
+		"defname": "OuterRim_ThermalDetonatorBelt"
+	},
+	{
+		"abr": "tibanna",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "OuterRim_Tibanna"
+	},
+	{
+		"abr": "tibannaextractor(heavy)",
+		"price": 9275,
+		"category": "Production",
+		"defname": "OuterRim_TibannaExtractorHeavy"
+	},
+	{
+		"abr": "tibannaextractor(light)",
+		"price": 4083,
+		"category": "Production",
+		"defname": "OuterRim_TibannaExtractorLight"
+	},
+	{
+		"abr": "tl-50heavyrepeater",
+		"price": 1900,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_TL50HeavyRepeaterBlaster"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
+	},
+	{
+		"abr": "tuskenheadgear",
+		"price": 625,
+		"category": "Headgear",
+		"defname": "OuterRim_TuskenHeadgear"
+	},
+	{
+		"abr": "vambrace(cryoban)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Vambrace_Cryoban"
+	},
+	{
+		"abr": "vambrace(flameprojector)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Vambrace_FlameProjector"
+	},
+	{
+		"abr": "vambrace(knockoutdart)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Vambrace_KnockoutDart"
+	},
+	{
+		"abr": "vambrace(whipcord)",
+		"price": 3025,
+		"category": "Apparel",
+		"defname": "OuterRim_Vambrace_Whipcord"
+	},
+	{
+		"abr": "vibro-axe",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroAxe"
+	},
+	{
+		"abr": "vibro-blade",
+		"price": 958,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroBlade"
+	},
+	{
+		"abr": "vibro-cleaver",
+		"price": 975,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroCleaver"
+	},
+	{
+		"abr": "vibro-dagger",
+		"price": 892,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroDagger"
+	},
+	{
+		"abr": "vibro-doubleblade",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroDoubleBlade"
+	},
+	{
+		"abr": "vibro-glaive",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "OuterRim_VibroGlaive"
+	},
+	{
+		"abr": "vssblastercarbine",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "OuterRim_VSSBlasterCarbine"
+	},
+	{
+		"abr": "wingedhumanoid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanoidWithWings"
 	}
 	],
-	"total": 838
+	"total": 1055
 }
