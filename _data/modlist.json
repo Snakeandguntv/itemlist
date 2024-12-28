@@ -6,6 +6,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
@@ -28,6 +34,66 @@
     "name": "Star Wars - The Force",
     "steamId": "918226861",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.5.8928.40486"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Core",
+    "steamId": "2919227155",
+    "version": "1.0.8871.41233"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Galactic Empire",
+    "steamId": "2919248699",
+    "version": "1.0.8416.41904"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lee",
+    "name": "Star Wars Retheme: Vanilla Factions Expanded - Empire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Turnovus",
+    "name": "Integrated Genes",
+    "steamId": "2884115974",
+    "version": "1.5.2"
+  },
+  {
+    "author": "guy762, Sovereign and Kaitorisenkou",
+    "name": "Star Wars Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Bambaryla",
+    "name": "Star Wars Xenotypes Faction Integration Patches",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "nry",
