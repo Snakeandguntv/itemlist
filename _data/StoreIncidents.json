@@ -141,11 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -162,11 +157,6 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -208,11 +198,6 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -341,5 +326,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 68
+	"total": 65
 }
