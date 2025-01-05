@@ -2002,7 +2002,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2017,7 +2017,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2046,7 +2046,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2061,7 +2061,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2090,7 +2090,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2105,7 +2105,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2134,7 +2134,7 @@
         "forcesensitive",
         "forceapprentice"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sith",
@@ -2149,7 +2149,7 @@
           "forceapprentice"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Star Wars - The Force",
@@ -2622,7 +2622,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 6969
+      "price": 12000
     },
     {
       "data": {
@@ -2644,7 +2644,7 @@
       "defName": "CreepJoiner",
       "enabled": true,
       "name": "human",
-      "price": 6969
+      "price": 12000
     }
   ]
 }
