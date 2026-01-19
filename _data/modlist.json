@@ -3,109 +3,19 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Framework",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.4"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Xen and Jecrell",
-    "name": "Star Wars - Factions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell and Xen",
-    "name": "Star Wars - Fully Functional Lightsabers",
-    "steamId": "918200645",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Xen and Jecrell",
-    "name": "Star Wars - The Force",
-    "steamId": "918226861",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.5.8928.40486"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Core",
-    "steamId": "2919227155",
-    "version": "1.0.8871.41233"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Empire",
-    "steamId": "2919248699",
-    "version": "1.0.8416.41904"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Lee",
-    "name": "Star Wars Retheme: Vanilla Factions Expanded - Empire",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Turnovus",
-    "name": "Integrated Genes",
-    "steamId": "2884115974",
-    "version": "1.5.2"
-  },
-  {
-    "author": "guy762, Sovereign and Kaitorisenkou",
-    "name": "Star Wars Xenotypes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Bambaryla",
-    "name": "Star Wars Xenotypes Faction Integration Patches",
-    "steamId": null,
-    "version": null
+    "steamId": "3513789221",
+    "version": "11.0.5"
   },
   {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0.0"
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
   },
   {
     "author": "nry",
@@ -117,30 +27,18 @@
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.5.0"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
+    "version": "1.6.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+  },
+  {
+    "author": "RimWorld-CrowdControl",
+    "name": "RimWorld CrowdControl",
+    "steamId": null,
+    "version": null
   }
 ]
